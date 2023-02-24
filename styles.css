@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+table,th,td{
+	border: black solid 2px;
+}
+
+}
